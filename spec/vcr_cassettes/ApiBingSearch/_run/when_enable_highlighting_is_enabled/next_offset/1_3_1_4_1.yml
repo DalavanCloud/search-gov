@@ -27,83 +27,82 @@ http_interactions:
       Cache-Control:
       - private, max-age=0
       Content-Length:
-      - '2442'
+      - '2408'
       Content-Type:
       - application/json; charset=utf-8
       Expires:
-      - Thu, 10 Jan 2019 19:56:17 GMT
+      - Fri, 11 Jan 2019 18:26:16 GMT
       Vary:
       - Accept-Encoding
       P3p:
       - CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"
       Set-Cookie:
-      - MUID=0AD98569B992676320C68989B8456697; path=/; expires=Tue, 04-Feb-2020 19:57:17
+      - MUID=33623E1157FA6A4D214532F0562D6BA6; path=/; expires=Wed, 05-Feb-2020 18:27:16
         GMT; domain=bingapis.com
-      - MUIDB=0AD98569B992676320C68989B8456697; path=/; httponly; expires=Tue, 04-Feb-2020
-        19:57:17 GMT
-      - SRCHD=AF=NOFORM; domain=.bingapis.com; expires=Sun, 10-Jan-2021 19:57:17 GMT;
+      - MUIDB=33623E1157FA6A4D214532F0562D6BA6; path=/; httponly; expires=Wed, 05-Feb-2020
+        18:27:16 GMT
+      - SRCHD=AF=NOFORM; domain=.bingapis.com; expires=Mon, 11-Jan-2021 18:27:16 GMT;
         path=/
-      - SRCHUID=V=2&GUID=A73AD507FF7344BD81A40D0C1BCA0E98&dmnchg=1; domain=.bingapis.com;
-        expires=Sun, 10-Jan-2021 19:57:17 GMT; path=/
-      - SRCHUSR=DOB=20190110; domain=.bingapis.com; expires=Sun, 10-Jan-2021 19:57:17
+      - SRCHUID=V=2&GUID=F7D0F0A2436747BBA325944F7AD4ED26&dmnchg=1; domain=.bingapis.com;
+        expires=Mon, 11-Jan-2021 18:27:16 GMT; path=/
+      - SRCHUSR=DOB=20190111; domain=.bingapis.com; expires=Mon, 11-Jan-2021 18:27:16
         GMT; path=/
-      - _EDGE_S=mkt=en-us&F=1&SID=2A2BE4F4F3986ABC3730E814F24F6B67; path=/; httponly;
+      - _EDGE_S=mkt=en-us&F=1&SID=253EAC6D93B2607D16CBA08C926561F1; path=/; httponly;
         domain=bingapis.com
-      - _EDGE_V=1; path=/; httponly; expires=Tue, 04-Feb-2020 19:57:17 GMT; domain=bingapis.com
-      - _SS=SID=2A2BE4F4F3986ABC3730E814F24F6B67; domain=.bingapis.com; path=/
+      - _EDGE_V=1; path=/; httponly; expires=Wed, 05-Feb-2020 18:27:16 GMT; domain=bingapis.com
+      - _SS=SID=253EAC6D93B2607D16CBA08C926561F1; domain=.bingapis.com; path=/
       Bingapis-Traceid:
-      - F088E00DB45E455091BE1BD8877BB3C6
+      - 29173D4927E94988A0F3E1F393237AD9
       X-Msedge-Clientid:
-      - 0AD98569B992676320C68989B8456697
+      - 33623E1157FA6A4D214532F0562D6BA6
       X-Msapi-Userstate:
-      - 2a6c
+      - 6e73
       Bingapis-Market:
       - en-US
       X-Msedge-Ref:
-      - 'Ref A: F088E00DB45E455091BE1BD8877BB3C6 Ref B: CO1EDGE0221 Ref C: 2019-01-10T19:57:17Z'
+      - 'Ref A: 29173D4927E94988A0F3E1F393237AD9 Ref B: CO1EDGE0915 Ref C: 2019-01-11T18:27:16Z'
       Date:
-      - Thu, 10 Jan 2019 19:57:17 GMT
+      - Fri, 11 Jan 2019 18:27:16 GMT
     body:
       encoding: UTF-8
-      string: '{"_type": "SearchResponse", "instrumentation": {"pingUrlBase": "https:\/\/www.bingapis.com\/api\/ping?IG=9B37A5D8AE1E4FCFB63D4D65BC3AD5FA&CID=0AD98569B992676320C68989B8456697&ID=",
-        "pageLoadPingUrl": "https:\/\/www.bingapis.com\/api\/ping\/pageload?IG=9B37A5D8AE1E4FCFB63D4D65BC3AD5FA&CID=0AD98569B992676320C68989B8456697&Type=Event.CPT&DATA=0"},
+      string: '{"_type": "SearchResponse", "instrumentation": {"pingUrlBase": "https:\/\/www.bingapis.com\/api\/ping?IG=F71D0187DCE1485D8E8A9D0E9FB0CDB5&CID=33623E1157FA6A4D214532F0562D6BA6&ID=",
+        "pageLoadPingUrl": "https:\/\/www.bingapis.com\/api\/ping\/pageload?IG=F71D0187DCE1485D8E8A9D0E9FB0CDB5&CID=33623E1157FA6A4D214532F0562D6BA6&Type=Event.CPT&DATA=0"},
         "webPages": {"webSearchUrl": "https:\/\/www.bing.com\/search?q=food+nutrition+(site%3ausa.gov)",
         "webSearchUrlPingSuffix": "DevEx,5242.1", "totalEstimatedMatches": 125, "value":
-        [{"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.0", "name": "Health
-        | USAGov", "url": "https:\/\/www.usa.gov\/health", "urlPingSuffix": "DevEx,5054.1",
+        [{"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.0", "name": "Food
+        Assistance | USAGov", "url": "https:\/\/www.usa.gov\/food-help", "urlPingSuffix":
+        "DevEx,5054.1", "displayUrl": "https:\/\/www.usa.gov\/food-help", "snippet":
+        "Food Stamps (SNAP Food Benefits) What help is available? If you have
+        a low income, the Supplemental Nutrition Assistance Program (SNAP) , formerly
+        known as \"food stamps,\" is a federal nutrition program that can help
+        you stretch your food budget.", "dateLastCrawled": "2019-01-11T15:35:00.0000000Z"},
+        {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.1", "name": "Health
+        | USAGov", "url": "https:\/\/www.usa.gov\/health", "urlPingSuffix": "DevEx,5067.1",
         "displayUrl": "https:\/\/www.usa.gov\/health", "snippet": "Health Information
         from the Government. Learn more about the best ways to find health information
         from the government. Health Insurance. Learn about health insurance, including
         Medicaid and Medicare. Medications. Get answers to common questions about
         buying and using medicine and medical products. Mental Health and Substance
-        Abuse", "dateLastCrawled": "2019-01-07T17:02:00.0000000Z"}, {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.1",
+        Abuse", "dateLastCrawled": "2019-01-07T17:02:00.0000000Z"}, {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.2",
         "name": "U.S. Department of Agriculture | USAGov", "url": "https:\/\/www.usa.gov\/federal-agencies\/u-s-department-of-agriculture",
-        "urlPingSuffix": "DevEx,5067.1", "about": [{"name": "United States Department
+        "urlPingSuffix": "DevEx,5080.1", "about": [{"name": "United States Department
         of Agriculture"}], "displayUrl": "https:\/\/www.usa.gov\/federal-agencies\/u-s-department-of-agriculture",
         "snippet": "Popular Services from U.S. Department of Agriculture. Food
         Stamps\/SNAP Information . How to Apply for Food Stamps\/SNAP . Food and
         Nutrition . USDA Food and Food Safety Recalls. Back to Top. Parent Agency.
         White House Related Agency. Center for Nutrition Policy and Promotion Food
         and Nutrition Service", "dateLastCrawled": "2019-01-06T17:19:00.0000000Z"},
-        {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.2", "name": "Food
+        {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.3", "name": "Food
         and Nutrition Service | USAGov", "url": "https:\/\/www.usa.gov\/federal-agencies\/food-and-nutrition-service",
-        "urlPingSuffix": "DevEx,5080.1", "about": [{"name": "Food and Nutrition Service"}],
+        "urlPingSuffix": "DevEx,5093.1", "about": [{"name": "Food and Nutrition Service"}],
         "displayUrl": "https:\/\/www.usa.gov\/federal-agencies\/food-and-nutrition-service",
         "snippet": "Food and Nutrition Service. The Food and Nutrition Service
         provides children and low-income people access to food, a healthful diet,
         and nutrition education. Agency Details Website: Food and Nutrition Service
         . Contact: Contact the Food and Nutrition Service . Food Stamps. Child
         Nutrition Programs. Main Address: 3101 Park Center Dr.", "dateLastCrawled":
-        "2018-12-23T03:03:00.0000000Z"}, {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.3",
-        "name": "Food Assistance | USAGov", "url": "https:\/\/www.usa.gov\/food-help",
-        "urlPingSuffix": "DevEx,5093.1", "displayUrl": "https:\/\/www.usa.gov\/food-help",
-        "snippet": "If you have a low income, the Supplemental Nutrition Assistance
-        Program (SNAP), formerly known as \"food stamps,\" is a federal nutrition
-        program that can help you stretch your food budget. You get benefits each
-        month on a plastic electronic benefits transfer (EBT) card, which you use
-        like a credit or ...", "dateLastCrawled": "2019-01-04T21:04:00.0000000Z"},
-        {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.4", "name": "Healthcare
-        Careers | USAGov", "url": "https:\/\/www.usa.gov\/healthcare-careers?source=kids",
+        "2018-12-23T03:03:00.0000000Z"}, {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.4",
+        "name": "Healthcare Careers | USAGov", "url": "https:\/\/www.usa.gov\/healthcare-careers?source=kids",
         "urlPingSuffix": "DevEx,5105.1", "displayUrl": "https:\/\/www.usa.gov\/healthcare-careers?source=kids",
         "snippet": "I love food! And I love helping people. At USDA [U.S. Department
         of Agriculture], our job is to teach Americans, all Americans in the whole
@@ -163,5 +162,5 @@ http_interactions:
         {"answerType": "WebPages", "resultIndex": 8, "value": {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.8"}},
         {"answerType": "WebPages", "resultIndex": 9, "value": {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.9"}}]}}}'
     http_version: 
-  recorded_at: Thu, 10 Jan 2019 19:57:17 GMT
+  recorded_at: Fri, 11 Jan 2019 18:27:16 GMT
 recorded_with: VCR 4.0.0

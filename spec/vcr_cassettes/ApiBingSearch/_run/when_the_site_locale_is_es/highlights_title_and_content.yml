@@ -27,117 +27,119 @@ http_interactions:
       Cache-Control:
       - private, max-age=0
       Content-Length:
-      - '2279'
+      - '2193'
       Content-Type:
       - application/json; charset=utf-8
       Expires:
-      - Thu, 10 Jan 2019 19:56:19 GMT
+      - Fri, 11 Jan 2019 18:26:13 GMT
       Vary:
       - Accept-Encoding
       P3p:
       - CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"
       Set-Cookie:
-      - MUID=046B2481F9316E9624B92861F8E66F6F; path=/; expires=Tue, 04-Feb-2020 19:57:19
+      - MUID=229D6917FD476133142B65F6FC9060FA; path=/; expires=Wed, 05-Feb-2020 18:27:13
         GMT; domain=bingapis.com
-      - MUIDB=046B2481F9316E9624B92861F8E66F6F; path=/; httponly; expires=Tue, 04-Feb-2020
-        19:57:19 GMT
-      - SRCHD=AF=NOFORM; domain=.bingapis.com; expires=Sun, 10-Jan-2021 19:57:19 GMT;
+      - MUIDB=229D6917FD476133142B65F6FC9060FA; path=/; httponly; expires=Wed, 05-Feb-2020
+        18:27:13 GMT
+      - SRCHD=AF=NOFORM; domain=.bingapis.com; expires=Mon, 11-Jan-2021 18:27:13 GMT;
         path=/
-      - SRCHUID=V=2&GUID=CB087536F2014DE3AF0905036F459B23&dmnchg=1; domain=.bingapis.com;
-        expires=Sun, 10-Jan-2021 19:57:19 GMT; path=/
-      - SRCHUSR=DOB=20190110; domain=.bingapis.com; expires=Sun, 10-Jan-2021 19:57:19
+      - SRCHUID=V=2&GUID=F1699A8FF6F1443A831D84F4284DA676&dmnchg=1; domain=.bingapis.com;
+        expires=Mon, 11-Jan-2021 18:27:13 GMT; path=/
+      - SRCHUSR=DOB=20190111; domain=.bingapis.com; expires=Mon, 11-Jan-2021 18:27:13
         GMT; path=/
-      - _EDGE_S=mkt=en-us&F=1&SID=218A8120C7966AB014648DC0C6416B1B; path=/; httponly;
+      - _EDGE_S=mkt=en-us&F=1&SID=154F8BFF86316C960F30871E87E66D90; path=/; httponly;
         domain=bingapis.com
-      - _EDGE_V=1; path=/; httponly; expires=Tue, 04-Feb-2020 19:57:19 GMT; domain=bingapis.com
-      - _SS=SID=218A8120C7966AB014648DC0C6416B1B; domain=.bingapis.com; path=/
+      - _EDGE_V=1; path=/; httponly; expires=Wed, 05-Feb-2020 18:27:13 GMT; domain=bingapis.com
+      - _SS=SID=154F8BFF86316C960F30871E87E66D90; domain=.bingapis.com; path=/
       Bingapis-Traceid:
-      - 9FAC0E40972843D7B16D00573AA04748
+      - 9BB30C712571440F876270857676239F
       X-Msedge-Clientid:
-      - 046B2481F9316E9624B92861F8E66F6F
+      - 229D6917FD476133142B65F6FC9060FA
       X-Msapi-Userstate:
-      - 8e13
+      - eb2d
       Bingapis-Market:
       - en-US
       X-Msedge-Ref:
-      - 'Ref A: 9FAC0E40972843D7B16D00573AA04748 Ref B: CO1EDGE0419 Ref C: 2019-01-10T19:57:19Z'
+      - 'Ref A: 9BB30C712571440F876270857676239F Ref B: CO1EDGE0512 Ref C: 2019-01-11T18:27:13Z'
       Date:
-      - Thu, 10 Jan 2019 19:57:18 GMT
+      - Fri, 11 Jan 2019 18:27:13 GMT
     body:
       encoding: UTF-8
-      string: '{"_type": "SearchResponse", "instrumentation": {"pingUrlBase": "https:\/\/www.bingapis.com\/api\/ping?IG=A58167F6B94049AC8655F3FB8D36EEDB&CID=046B2481F9316E9624B92861F8E66F6F&ID=",
-        "pageLoadPingUrl": "https:\/\/www.bingapis.com\/api\/ping\/pageload?IG=A58167F6B94049AC8655F3FB8D36EEDB&CID=046B2481F9316E9624B92861F8E66F6F&Type=Event.CPT&DATA=0"},
+      string: '{"_type": "SearchResponse", "instrumentation": {"pingUrlBase": "https:\/\/www.bingapis.com\/api\/ping?IG=4A95D5496F4742078ED3D61725885D77&CID=229D6917FD476133142B65F6FC9060FA&ID=",
+        "pageLoadPingUrl": "https:\/\/www.bingapis.com\/api\/ping\/pageload?IG=4A95D5496F4742078ED3D61725885D77&CID=229D6917FD476133142B65F6FC9060FA&Type=Event.CPT&DATA=0"},
         "webPages": {"webSearchUrl": "https:\/\/www.bing.com\/search?q=educaci%c3%b3n+(site%3ausa.gov)",
         "webSearchUrlPingSuffix": "DevEx,5235.1", "totalEstimatedMatches": 121, "value":
         [{"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.0", "name": "Recursos
         para la educación | USAGov", "url": "https:\/\/www.usa.gov\/espanol\/educacion",
         "urlPingSuffix": "DevEx,5053.1", "displayUrl": "https:\/\/www.usa.gov\/espanol\/educacion",
-        "snippet": "Becas, productos financieros y programas del Gobierno para la
-        educación superior. Cuidado de los hijos. Consejos para encontrar proveedores
-        de cuidado de niños y programas que apoyan el bienestar de los niños y jóvenes.
-        Recursos educativos. Información sobre programas o materiales para estudiar.",
-        "dateLastCrawled": "2019-01-06T09:57:00.0000000Z"}, {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.1",
-        "name": "Recursos educativos | USAGov", "url": "https:\/\/www.usa.gov\/espanol\/recursos-educativos",
+        "snippet": "Ayuda financiera para estudiantes. Becas, productos financieros
+        y programas del Gobierno para la educación superior. Cuidado de los hijos.
+        Consejos para encontrar proveedores de cuidado de niños y programas que apoyan
+        el bienestar de los niños y jóvenes.", "dateLastCrawled": "2019-01-06T09:57:00.0000000Z"},
+        {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.1", "name": "Recursos
+        educativos | USAGov", "url": "https:\/\/www.usa.gov\/espanol\/recursos-educativos",
         "urlPingSuffix": "DevEx,5065.1", "displayUrl": "https:\/\/www.usa.gov\/espanol\/recursos-educativos",
         "snippet": "El Gobierno ofrece recursos para financiar la educación superior.
         Volver al inicio. Recursos del Departamento de Educación. El Departamento
         de Educación cuenta con recursos e información útil para todas las fases
         de la educación, desde leyes e iniciativas hasta información sobre derechos
         y ayuda financiera:", "dateLastCrawled": "2019-01-02T18:18:00.0000000Z"},
-        {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.2", "name": "Departamento
+        {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.2", "name": "Ayuda
+        financiera para estudiantes | USAGov", "url": "https:\/\/www.usa.gov\/espanol\/ayuda-financiera-para-estudiantes",
+        "urlPingSuffix": "DevEx,5077.1", "displayUrl": "https:\/\/www.usa.gov\/espanol\/ayuda-financiera-para-estudiantes",
+        "snippet": "Otros recursos del Gobierno federal: además de la ayuda del Departamento
+        de Educación de EE. UU., el Gobierno federal ofrece otros programas de ayuda
+        financiera. Beneficios para veteranos y miembros del servicio militar: infórmese
+        sobre los programas educativos para quienes son o han sido miembros del servicio
+        militar, sus hijos y cónyuges.", "dateLastCrawled": "2019-01-01T06:16:00.0000000Z"},
+        {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.3", "name": "Departamento
         de Educación | USAGov", "url": "https:\/\/www.usa.gov\/espanol\/agencias-federales\/departamento-de-educacion",
-        "urlPingSuffix": "DevEx,5077.1", "displayUrl": "https:\/\/www.usa.gov\/espanol\/agencias-federales\/departamento-de...",
+        "urlPingSuffix": "DevEx,5089.1", "displayUrl": "https:\/\/www.usa.gov\/espanol\/agencias-federales\/departamento-de...",
         "snippet": "La misión del Departamento de Educación de Estados Unidos es
         garantizar la igualdad de acceso a la educación, promover la excelencia
         en la educación en todo el país y mejorar el sistema educativo con el programa
         \"Que Ningún Niño Se Quede Atrás ...", "dateLastCrawled": "2019-01-03T12:06:00.0000000Z"},
-        {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.3", "name": "Beneficios
+        {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.4", "name": "Beneficios
         para militares | USAGov", "url": "https:\/\/www.usa.gov\/espanol\/beneficios-familias-militares",
-        "urlPingSuffix": "DevEx,5089.1", "displayUrl": "https:\/\/www.usa.gov\/espanol\/beneficios-familias-militares",
-        "snippet": "Beneficios para la educación de militares, veteranos y sus familias
-        Ayuda para el pago de la colegiatura. Los militares en servicio activo pueden
-        cursar estudios superiores durante su tiempo libre y solicitar que su rama
-        de las Fuerzas Armadas le financie los costos.", "dateLastCrawled": "2019-01-05T16:16:00.0000000Z"},
-        {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.4", "name": "D | Agencias
+        "urlPingSuffix": "DevEx,5101.1", "displayUrl": "https:\/\/www.usa.gov\/espanol\/beneficios-familias-militares",
+        "snippet": "Otros programas de educación del Departamento de Asuntos de
+        los Veteranos. Si es o ha sido miembro de alguna rama de las Fuerzas Armadas,
+        podría ser elegible para los beneficios para educación (en inglés) del Departamento
+        de Asuntos de los Veteranos (VA, sigla en inglés). Lo mismo si es cónyuge
+        o dependiente de algún veterano.", "dateLastCrawled": "2019-01-05T16:16:00.0000000Z"},
+        {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.5", "name": "D | Agencias
         federales | USAGov", "url": "https:\/\/www.usa.gov\/espanol\/agencias-federales\/d",
-        "urlPingSuffix": "DevEx,5101.1", "displayUrl": "https:\/\/www.usa.gov\/espanol\/agencias-federales\/d",
+        "urlPingSuffix": "DevEx,5113.1", "displayUrl": "https:\/\/www.usa.gov\/espanol\/agencias-federales\/d",
         "snippet": "Departamento de Educación Departamento de Energía – DOE Departamento
         de Estado Departamento de Justicia Departamento de Salud y Servicios Humanos
         (HHS) Departamento de Seguridad Nacional Departamento de Transporte Departamento
         de Vivienda y Desarrollo Urbano de EE. UU.", "dateLastCrawled": "2019-01-02T23:37:00.0000000Z"},
-        {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.5", "name": "Préstamos
+        {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.6", "name": "Préstamos
         y subvenciones | USAGov", "url": "https:\/\/www.usa.gov\/espanol\/prestamos-y-subvenciones",
-        "urlPingSuffix": "DevEx,5113.1", "displayUrl": "https:\/\/www.usa.gov\/espanol\/prestamos-y-subvenciones",
+        "urlPingSuffix": "DevEx,5125.1", "displayUrl": "https:\/\/www.usa.gov\/espanol\/prestamos-y-subvenciones",
         "snippet": "Educación. Pagos de servicios públicos. Subvenciones \"gratuitas\"
         y estafas. Si recibe información que dice que es elegible para una \"subvención
         gratuita\", lo más probable es que sea una estafa.", "dateLastCrawled": "2019-01-05T19:29:00.0000000Z"},
-        {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.6", "name": "Empleo
+        {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.7", "name": "Empleo
         y capacitación laboral | USAGov", "url": "https:\/\/www.usa.gov\/espanol\/empleo-capacitacion-laboral",
-        "urlPingSuffix": "DevEx,5125.1", "displayUrl": "https:\/\/www.usa.gov\/espanol\/empleo-capacitacion-laboral",
+        "urlPingSuffix": "DevEx,5137.1", "displayUrl": "https:\/\/www.usa.gov\/espanol\/empleo-capacitacion-laboral",
         "snippet": "Por Internet: el sitio web USALearns.org (en inglés) del Departamento
         de Educación le permite aprender inglés desde la comodidad de su casa a
         través de su computadora o por una aplicación que puede descargar a su celular
         o tableta. Los cursos utilizan texto, audio y video.", "dateLastCrawled":
-        "2019-01-01T22:09:00.0000000Z"}, {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.7",
+        "2019-01-01T22:09:00.0000000Z"}, {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.8",
         "name": "Créditos tributarios | USAGov", "url": "https:\/\/www.usa.gov\/espanol\/creditos-tributarios",
-        "urlPingSuffix": "DevEx,5137.1", "displayUrl": "https:\/\/www.usa.gov\/espanol\/creditos-tributarios",
+        "urlPingSuffix": "DevEx,5149.1", "displayUrl": "https:\/\/www.usa.gov\/espanol\/creditos-tributarios",
         "snippet": "Beneficios tributarios para la educación. Existen varios beneficios
         de impuestos para ayudar a pagar la universidad o los estudios después de
         que obtiene un título universitario. Créditos. Un crédito tributario por educación
         ayuda a reducir la cantidad de impuestos adeudados en su declaración.", "dateLastCrawled":
-        "2018-12-29T03:02:00.0000000Z"}, {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.8",
+        "2018-12-29T03:02:00.0000000Z"}, {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.9",
         "name": "Comisión Federal de Educación Financiera | USAGov", "url": "https:\/\/www.usa.gov\/espanol\/agencias-federales\/comision-federal-de-educacion-financiera",
-        "urlPingSuffix": "DevEx,5149.1", "displayUrl": "https:\/\/www.usa.gov\/espanol\/agencias-federales\/comision-federal-de...",
-        "snippet": "El dominio .gov significa que es oficial. Los sitios del Gobierno
-        federal frecuentemente terminan en dominios .gov o .mil. Antes de compartir
-        información confidencial, asegúrese de que está en un sitio del Gobierno federal.",
-        "dateLastCrawled": "2019-01-05T17:24:00.0000000Z"}, {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.9",
-        "name": "Ayuda financiera para estudiantes | USAGov", "url": "https:\/\/www.usa.gov\/espanol\/ayuda-financiera-para-estudiantes",
-        "urlPingSuffix": "DevEx,5161.1", "displayUrl": "https:\/\/www.usa.gov\/espanol\/ayuda-financiera-para-estudiantes",
-        "snippet": "Una de las cosas que debe considerar cuando esté buscando formas
-        de pagar la universidad o escuela técnica, es el solicitar un préstamo estudiantil;
-        dinero que puede pedir prestado para ayudarle a cubrir los gastos de educación
-        y que, más adelante, deberá devolver con intereses.", "dateLastCrawled": "2019-01-01T06:16:00.0000000Z"}]},
+        "urlPingSuffix": "DevEx,5161.1", "displayUrl": "https:\/\/www.usa.gov\/espanol\/agencias-federales\/comision-federal-de...",
+        "snippet": "Directory listing for Comisión Federal de Educación Financiera.
+        El dominio .gov significa que es oficial. Los sitios del Gobierno federal
+        frecuentemente terminan en dominios .gov o .mil.", "dateLastCrawled": "2019-01-05T17:24:00.0000000Z"}]},
         "rankingResponse": {"mainline": {"items": [{"answerType": "WebPages", "resultIndex":
         0, "value": {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.0"}}, {"answerType":
         "WebPages", "resultIndex": 1, "value": {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.1"}},
@@ -150,5 +152,5 @@ http_interactions:
         {"answerType": "WebPages", "resultIndex": 8, "value": {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.8"}},
         {"answerType": "WebPages", "resultIndex": 9, "value": {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.9"}}]}}}'
     http_version: 
-  recorded_at: Thu, 10 Jan 2019 19:57:19 GMT
+  recorded_at: Fri, 11 Jan 2019 18:27:13 GMT
 recorded_with: VCR 4.0.0

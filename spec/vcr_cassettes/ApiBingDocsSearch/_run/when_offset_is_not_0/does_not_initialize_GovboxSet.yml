@@ -27,46 +27,46 @@ http_interactions:
       Cache-Control:
       - private, max-age=0
       Content-Length:
-      - '1747'
+      - '1745'
       Content-Type:
       - application/json; charset=utf-8
       Expires:
-      - Thu, 10 Jan 2019 19:55:40 GMT
+      - Fri, 11 Jan 2019 18:15:16 GMT
       Vary:
       - Accept-Encoding
       P3p:
       - CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"
       Set-Cookie:
-      - MUID=0ED82670C50C61572C4E2A90C4DB60D5; path=/; expires=Tue, 04-Feb-2020 19:56:41
+      - MUID=3A308E50BEBA69C7048682B1BF6D686D; path=/; expires=Wed, 05-Feb-2020 18:16:16
         GMT; domain=bingapis.com
-      - MUIDB=0ED82670C50C61572C4E2A90C4DB60D5; path=/; httponly; expires=Tue, 04-Feb-2020
-        19:56:41 GMT
-      - SRCHD=AF=NOFORM; domain=.bingapis.com; expires=Sun, 10-Jan-2021 19:56:40 GMT;
+      - MUIDB=3A308E50BEBA69C7048682B1BF6D686D; path=/; httponly; expires=Wed, 05-Feb-2020
+        18:16:16 GMT
+      - SRCHD=AF=NOFORM; domain=.bingapis.com; expires=Mon, 11-Jan-2021 18:16:16 GMT;
         path=/
-      - SRCHUID=V=2&GUID=F1C36AADB1BF42BAA56270BECD3A4B20&dmnchg=1; domain=.bingapis.com;
-        expires=Sun, 10-Jan-2021 19:56:40 GMT; path=/
-      - SRCHUSR=DOB=20190110; domain=.bingapis.com; expires=Sun, 10-Jan-2021 19:56:40
+      - SRCHUID=V=2&GUID=E8D245775C2341A5A69197F812895CCE&dmnchg=1; domain=.bingapis.com;
+        expires=Mon, 11-Jan-2021 18:16:16 GMT; path=/
+      - SRCHUSR=DOB=20190111; domain=.bingapis.com; expires=Mon, 11-Jan-2021 18:16:16
         GMT; path=/
-      - _EDGE_S=mkt=en-us&F=1&SID=2E15B5C69C3460713F30B9269DE3612B; path=/; httponly;
+      - _EDGE_S=mkt=en-us&F=1&SID=16E7662581EB688D31F66AC4803C696A; path=/; httponly;
         domain=bingapis.com
-      - _EDGE_V=1; path=/; httponly; expires=Tue, 04-Feb-2020 19:56:41 GMT; domain=bingapis.com
-      - _SS=SID=2E15B5C69C3460713F30B9269DE3612B; domain=.bingapis.com; path=/
+      - _EDGE_V=1; path=/; httponly; expires=Wed, 05-Feb-2020 18:16:16 GMT; domain=bingapis.com
+      - _SS=SID=16E7662581EB688D31F66AC4803C696A; domain=.bingapis.com; path=/
       Bingapis-Traceid:
-      - 180DE124DEBA4B2E9100C2FBC46457F9
+      - 2DE9E3DFEE5949AAAE9FD106B8B4404E
       X-Msedge-Clientid:
-      - 0ED82670C50C61572C4E2A90C4DB60D5
+      - 3A308E50BEBA69C7048682B1BF6D686D
       X-Msapi-Userstate:
-      - 5aba
+      - ade3
       Bingapis-Market:
       - en-US
       X-Msedge-Ref:
-      - 'Ref A: 180DE124DEBA4B2E9100C2FBC46457F9 Ref B: CO1EDGE0508 Ref C: 2019-01-10T19:56:41Z'
+      - 'Ref A: 2DE9E3DFEE5949AAAE9FD106B8B4404E Ref B: CO1EDGE0514 Ref C: 2019-01-11T18:16:16Z'
       Date:
-      - Thu, 10 Jan 2019 19:56:40 GMT
+      - Fri, 11 Jan 2019 18:16:16 GMT
     body:
       encoding: UTF-8
-      string: '{"_type": "SearchResponse", "instrumentation": {"pingUrlBase": "https:\/\/www.bingapis.com\/api\/ping?IG=7630F6ACCBAB4351B9CFECB7001F8EC5&CID=0ED82670C50C61572C4E2A90C4DB60D5&ID=",
-        "pageLoadPingUrl": "https:\/\/www.bingapis.com\/api\/ping\/pageload?IG=7630F6ACCBAB4351B9CFECB7001F8EC5&CID=0ED82670C50C61572C4E2A90C4DB60D5&Type=Event.CPT&DATA=0"},
+      string: '{"_type": "SearchResponse", "instrumentation": {"pingUrlBase": "https:\/\/www.bingapis.com\/api\/ping?IG=F632DE9E75424731BD5370544DA1F534&CID=3A308E50BEBA69C7048682B1BF6D686D&ID=",
+        "pageLoadPingUrl": "https:\/\/www.bingapis.com\/api\/ping\/pageload?IG=F632DE9E75424731BD5370544DA1F534&CID=3A308E50BEBA69C7048682B1BF6D686D&Type=Event.CPT&DATA=0"},
         "webPages": {"webSearchUrl": "https:\/\/www.bing.com\/search?q=healthy+snack+(site%3ausa.gov)",
         "webSearchUrlPingSuffix": "DevEx,5207.1", "totalEstimatedMatches": 76, "value":
         [{"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.0", "name": "Links
@@ -129,5 +129,5 @@ http_interactions:
         {"answerType": "WebPages", "resultIndex": 7, "value": {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.7"}},
         {"answerType": "WebPages", "resultIndex": 8, "value": {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.8"}}]}}}'
     http_version: 
-  recorded_at: Thu, 10 Jan 2019 19:56:41 GMT
+  recorded_at: Fri, 11 Jan 2019 18:16:16 GMT
 recorded_with: VCR 4.0.0

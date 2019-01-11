@@ -31,42 +31,42 @@ http_interactions:
       Content-Type:
       - application/json; charset=utf-8
       Expires:
-      - Thu, 10 Jan 2019 19:55:41 GMT
+      - Fri, 11 Jan 2019 18:15:13 GMT
       Vary:
       - Accept-Encoding
       P3p:
       - CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"
       Set-Cookie:
-      - MUID=2255B10CD3BB63142472BDECD26C623F; path=/; expires=Tue, 04-Feb-2020 19:56:41
+      - MUID=206AEBD516986E0E0C17E734174F6FED; path=/; expires=Wed, 05-Feb-2020 18:16:14
         GMT; domain=bingapis.com
-      - MUIDB=2255B10CD3BB63142472BDECD26C623F; path=/; httponly; expires=Tue, 04-Feb-2020
-        19:56:41 GMT
-      - SRCHD=AF=NOFORM; domain=.bingapis.com; expires=Sun, 10-Jan-2021 19:56:41 GMT;
+      - MUIDB=206AEBD516986E0E0C17E734174F6FED; path=/; httponly; expires=Wed, 05-Feb-2020
+        18:16:14 GMT
+      - SRCHD=AF=NOFORM; domain=.bingapis.com; expires=Mon, 11-Jan-2021 18:16:13 GMT;
         path=/
-      - SRCHUID=V=2&GUID=19F1A44E5DEE44FA9442D07256E07121&dmnchg=1; domain=.bingapis.com;
-        expires=Sun, 10-Jan-2021 19:56:41 GMT; path=/
-      - SRCHUSR=DOB=20190110; domain=.bingapis.com; expires=Sun, 10-Jan-2021 19:56:41
+      - SRCHUID=V=2&GUID=929A0CCDF18A44089A2D6949C65863C1&dmnchg=1; domain=.bingapis.com;
+        expires=Mon, 11-Jan-2021 18:16:13 GMT; path=/
+      - SRCHUSR=DOB=20190111; domain=.bingapis.com; expires=Mon, 11-Jan-2021 18:16:13
         GMT; path=/
-      - _EDGE_S=mkt=en-us&F=1&SID=3EBA7EAE56ED6501058A724E573A64FC; path=/; httponly;
+      - _EDGE_S=mkt=en-us&F=1&SID=24EB8ADCB68E6A6A075D863DB7596B46; path=/; httponly;
         domain=bingapis.com
-      - _EDGE_V=1; path=/; httponly; expires=Tue, 04-Feb-2020 19:56:41 GMT; domain=bingapis.com
-      - _SS=SID=3EBA7EAE56ED6501058A724E573A64FC; domain=.bingapis.com; path=/
+      - _EDGE_V=1; path=/; httponly; expires=Wed, 05-Feb-2020 18:16:14 GMT; domain=bingapis.com
+      - _SS=SID=24EB8ADCB68E6A6A075D863DB7596B46; domain=.bingapis.com; path=/
       Bingapis-Traceid:
-      - 55D6E049C01A4323828B9D9137D670DC
+      - 32EFA1CAF75E4C969D5A638A6D4B95F5
       X-Msedge-Clientid:
-      - 2255B10CD3BB63142472BDECD26C623F
+      - 206AEBD516986E0E0C17E734174F6FED
       X-Msapi-Userstate:
-      - 15fa
+      - f488
       Bingapis-Market:
       - en-US
       X-Msedge-Ref:
-      - 'Ref A: 55D6E049C01A4323828B9D9137D670DC Ref B: CO1EDGE0120 Ref C: 2019-01-10T19:56:41Z'
+      - 'Ref A: 32EFA1CAF75E4C969D5A638A6D4B95F5 Ref B: CO1EDGE0410 Ref C: 2019-01-11T18:16:14Z'
       Date:
-      - Thu, 10 Jan 2019 19:56:41 GMT
+      - Fri, 11 Jan 2019 18:16:13 GMT
     body:
       encoding: UTF-8
-      string: '{"_type": "SearchResponse", "instrumentation": {"pingUrlBase": "https:\/\/www.bingapis.com\/api\/ping?IG=64A0C97916824D518C43D3B4FDA39539&CID=2255B10CD3BB63142472BDECD26C623F&ID=",
-        "pageLoadPingUrl": "https:\/\/www.bingapis.com\/api\/ping\/pageload?IG=64A0C97916824D518C43D3B4FDA39539&CID=2255B10CD3BB63142472BDECD26C623F&Type=Event.CPT&DATA=0"},
+      string: '{"_type": "SearchResponse", "instrumentation": {"pingUrlBase": "https:\/\/www.bingapis.com\/api\/ping?IG=63DF97AF01B2467DA3FA36D35E693914&CID=206AEBD516986E0E0C17E734174F6FED&ID=",
+        "pageLoadPingUrl": "https:\/\/www.bingapis.com\/api\/ping\/pageload?IG=63DF97AF01B2467DA3FA36D35E693914&CID=206AEBD516986E0E0C17E734174F6FED&Type=Event.CPT&DATA=0"},
         "webPages": {"webSearchUrl": "https:\/\/www.bing.com\/search?q=educaci%c3%b3n+(site%3ausa.gov)",
         "webSearchUrlPingSuffix": "DevEx,5235.1", "totalEstimatedMatches": 121, "value":
         [{"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.0", "name": "Recursos
@@ -152,5 +152,5 @@ http_interactions:
         {"answerType": "WebPages", "resultIndex": 8, "value": {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.8"}},
         {"answerType": "WebPages", "resultIndex": 9, "value": {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.9"}}]}}}'
     http_version: 
-  recorded_at: Thu, 10 Jan 2019 19:56:41 GMT
+  recorded_at: Fri, 11 Jan 2019 18:16:14 GMT
 recorded_with: VCR 4.0.0

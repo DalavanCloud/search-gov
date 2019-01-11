@@ -27,81 +27,81 @@ http_interactions:
       Cache-Control:
       - private, max-age=0
       Content-Length:
-      - '2350'
+      - '2319'
       Content-Type:
       - application/json; charset=utf-8
       Expires:
-      - Thu, 10 Jan 2019 19:56:18 GMT
+      - Fri, 11 Jan 2019 18:26:15 GMT
       Vary:
       - Accept-Encoding
       P3p:
       - CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"
       Set-Cookie:
-      - MUID=3769CD2EA3E76B0231D1C1CEA2306A17; path=/; expires=Tue, 04-Feb-2020 19:57:18
+      - MUID=3AD1BAF1FA35675814B8B610FBE26659; path=/; expires=Wed, 05-Feb-2020 18:27:15
         GMT; domain=bingapis.com
-      - MUIDB=3769CD2EA3E76B0231D1C1CEA2306A17; path=/; httponly; expires=Tue, 04-Feb-2020
-        19:57:18 GMT
-      - SRCHD=AF=NOFORM; domain=.bingapis.com; expires=Sun, 10-Jan-2021 19:57:18 GMT;
+      - MUIDB=3AD1BAF1FA35675814B8B610FBE26659; path=/; httponly; expires=Wed, 05-Feb-2020
+        18:27:15 GMT
+      - SRCHD=AF=NOFORM; domain=.bingapis.com; expires=Mon, 11-Jan-2021 18:27:15 GMT;
         path=/
-      - SRCHUID=V=2&GUID=EFB7D5FB51554BB4B52D96EBF657C3D2&dmnchg=1; domain=.bingapis.com;
-        expires=Sun, 10-Jan-2021 19:57:18 GMT; path=/
-      - SRCHUSR=DOB=20190110; domain=.bingapis.com; expires=Sun, 10-Jan-2021 19:57:18
+      - SRCHUID=V=2&GUID=145333B2A0DA47408A7B0F33A8ADC304&dmnchg=1; domain=.bingapis.com;
+        expires=Mon, 11-Jan-2021 18:27:15 GMT; path=/
+      - SRCHUSR=DOB=20190111; domain=.bingapis.com; expires=Mon, 11-Jan-2021 18:27:15
         GMT; path=/
-      - _EDGE_S=mkt=en-us&F=1&SID=10587B746BFA647D3FE077946A2D6534; path=/; httponly;
+      - _EDGE_S=mkt=en-us&F=1&SID=24188577EB7866380A888996EAAF6785; path=/; httponly;
         domain=bingapis.com
-      - _EDGE_V=1; path=/; httponly; expires=Tue, 04-Feb-2020 19:57:18 GMT; domain=bingapis.com
-      - _SS=SID=10587B746BFA647D3FE077946A2D6534; domain=.bingapis.com; path=/
+      - _EDGE_V=1; path=/; httponly; expires=Wed, 05-Feb-2020 18:27:15 GMT; domain=bingapis.com
+      - _SS=SID=24188577EB7866380A888996EAAF6785; domain=.bingapis.com; path=/
       Bingapis-Traceid:
-      - 1BA8C7528431467896B2C7C728B7F6DC
+      - D8225B961C4E4C818CB76EF1243291B5
       X-Msedge-Clientid:
-      - 3769CD2EA3E76B0231D1C1CEA2306A17
+      - 3AD1BAF1FA35675814B8B610FBE26659
       X-Msapi-Userstate:
-      - b18b
+      - acdb
       Bingapis-Market:
       - en-US
       X-Msedge-Ref:
-      - 'Ref A: 1BA8C7528431467896B2C7C728B7F6DC Ref B: CO1EDGE0509 Ref C: 2019-01-10T19:57:18Z'
+      - 'Ref A: D8225B961C4E4C818CB76EF1243291B5 Ref B: CO1EDGE0918 Ref C: 2019-01-11T18:27:15Z'
       Date:
-      - Thu, 10 Jan 2019 19:57:18 GMT
+      - Fri, 11 Jan 2019 18:27:14 GMT
     body:
       encoding: UTF-8
-      string: '{"_type": "SearchResponse", "instrumentation": {"pingUrlBase": "https:\/\/www.bingapis.com\/api\/ping?IG=9CE750BFDA8441AF92CCDC380210DE13&CID=3769CD2EA3E76B0231D1C1CEA2306A17&ID=",
-        "pageLoadPingUrl": "https:\/\/www.bingapis.com\/api\/ping\/pageload?IG=9CE750BFDA8441AF92CCDC380210DE13&CID=3769CD2EA3E76B0231D1C1CEA2306A17&Type=Event.CPT&DATA=0"},
+      string: '{"_type": "SearchResponse", "instrumentation": {"pingUrlBase": "https:\/\/www.bingapis.com\/api\/ping?IG=8A12C24BECE245BEA90B610D6145C9B6&CID=3AD1BAF1FA35675814B8B610FBE26659&ID=",
+        "pageLoadPingUrl": "https:\/\/www.bingapis.com\/api\/ping\/pageload?IG=8A12C24BECE245BEA90B610D6145C9B6&CID=3AD1BAF1FA35675814B8B610FBE26659&Type=Event.CPT&DATA=0"},
         "webPages": {"webSearchUrl": "https:\/\/www.bing.com\/search?q=food+nutrition+(site%3ausa.gov)",
         "webSearchUrlPingSuffix": "DevEx,5242.1", "totalEstimatedMatches": 125, "value":
-        [{"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.0", "name": "Health
-        | USAGov", "url": "https:\/\/www.usa.gov\/health", "urlPingSuffix": "DevEx,5054.1",
-        "displayUrl": "https:\/\/www.usa.gov\/health", "snippet": "Health Information
-        from the Government. Learn more about the best ways to find health information
-        from the government. Health Insurance. Learn about health insurance, including
-        Medicaid and Medicare. Medications. Get answers to common questions about
-        buying and using medicine and medical products. Mental Health and Substance
-        Abuse", "dateLastCrawled": "2019-01-07T17:02:00.0000000Z"}, {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.1",
+        [{"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.0", "name": "Food
+        Assistance | USAGov", "url": "https:\/\/www.usa.gov\/food-help", "urlPingSuffix":
+        "DevEx,5054.1", "displayUrl": "https:\/\/www.usa.gov\/food-help", "snippet":
+        "Food Stamps (SNAP Food Benefits) What help is available? If you have a low
+        income, the Supplemental Nutrition Assistance Program (SNAP) , formerly known
+        as \"food stamps,\" is a federal nutrition program that can help you stretch
+        your food budget.", "dateLastCrawled": "2019-01-11T15:35:00.0000000Z"}, {"id":
+        "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.1", "name": "Health | USAGov",
+        "url": "https:\/\/www.usa.gov\/health", "urlPingSuffix": "DevEx,5067.1", "displayUrl":
+        "https:\/\/www.usa.gov\/health", "snippet": "Health Information from the Government.
+        Learn more about the best ways to find health information from the government.
+        Health Insurance. Learn about health insurance, including Medicaid and Medicare.
+        Medications. Get answers to common questions about buying and using medicine
+        and medical products. Mental Health and Substance Abuse", "dateLastCrawled":
+        "2019-01-07T17:02:00.0000000Z"}, {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.2",
         "name": "U.S. Department of Agriculture | USAGov", "url": "https:\/\/www.usa.gov\/federal-agencies\/u-s-department-of-agriculture",
-        "urlPingSuffix": "DevEx,5067.1", "about": [{"name": "United States Department
+        "urlPingSuffix": "DevEx,5080.1", "about": [{"name": "United States Department
         of Agriculture"}], "displayUrl": "https:\/\/www.usa.gov\/federal-agencies\/u-s-department-of-agriculture",
         "snippet": "Popular Services from U.S. Department of Agriculture. Food Stamps\/SNAP
         Information . How to Apply for Food Stamps\/SNAP . Food and Nutrition . USDA
         Food and Food Safety Recalls. Back to Top. Parent Agency. White House Related
         Agency. Center for Nutrition Policy and Promotion Food and Nutrition Service",
-        "dateLastCrawled": "2019-01-06T17:19:00.0000000Z"}, {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.2",
+        "dateLastCrawled": "2019-01-06T17:19:00.0000000Z"}, {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.3",
         "name": "Food and Nutrition Service | USAGov", "url": "https:\/\/www.usa.gov\/federal-agencies\/food-and-nutrition-service",
-        "urlPingSuffix": "DevEx,5080.1", "about": [{"name": "Food and Nutrition Service"}],
+        "urlPingSuffix": "DevEx,5093.1", "about": [{"name": "Food and Nutrition Service"}],
         "displayUrl": "https:\/\/www.usa.gov\/federal-agencies\/food-and-nutrition-service",
         "snippet": "Food and Nutrition Service. The Food and Nutrition Service provides
         children and low-income people access to food, a healthful diet, and nutrition
         education. Agency Details Website: Food and Nutrition Service . Contact: Contact
         the Food and Nutrition Service . Food Stamps. Child Nutrition Programs. Main
         Address: 3101 Park Center Dr.", "dateLastCrawled": "2018-12-23T03:03:00.0000000Z"},
-        {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.3", "name": "Food Assistance
-        | USAGov", "url": "https:\/\/www.usa.gov\/food-help", "urlPingSuffix": "DevEx,5093.1",
-        "displayUrl": "https:\/\/www.usa.gov\/food-help", "snippet": "If you have
-        a low income, the Supplemental Nutrition Assistance Program (SNAP), formerly
-        known as \"food stamps,\" is a federal nutrition program that can help you
-        stretch your food budget. You get benefits each month on a plastic electronic
-        benefits transfer (EBT) card, which you use like a credit or ...", "dateLastCrawled":
-        "2019-01-04T21:04:00.0000000Z"}, {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.4",
-        "name": "Healthcare Careers | USAGov", "url": "https:\/\/www.usa.gov\/healthcare-careers?source=kids",
+        {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.4", "name": "Healthcare
+        Careers | USAGov", "url": "https:\/\/www.usa.gov\/healthcare-careers?source=kids",
         "urlPingSuffix": "DevEx,5105.1", "displayUrl": "https:\/\/www.usa.gov\/healthcare-careers?source=kids",
         "snippet": "I love food! And I love helping people. At USDA [U.S. Department
         of Agriculture], our job is to teach Americans, all Americans in the whole
@@ -158,5 +158,5 @@ http_interactions:
         {"answerType": "WebPages", "resultIndex": 8, "value": {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.8"}},
         {"answerType": "WebPages", "resultIndex": 9, "value": {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.9"}}]}}}'
     http_version: 
-  recorded_at: Thu, 10 Jan 2019 19:57:18 GMT
+  recorded_at: Fri, 11 Jan 2019 18:27:15 GMT
 recorded_with: VCR 4.0.0

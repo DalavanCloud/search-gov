@@ -27,56 +27,56 @@ http_interactions:
       Cache-Control:
       - private, max-age=0
       Content-Length:
-      - '2353'
+      - '2378'
       Content-Type:
       - application/json; charset=utf-8
       Expires:
-      - Thu, 10 Jan 2019 19:55:40 GMT
+      - Fri, 11 Jan 2019 18:15:15 GMT
       Vary:
       - Accept-Encoding
       P3p:
       - CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"
       Set-Cookie:
-      - MUID=33F2D96161E463601903D58160336227; path=/; expires=Tue, 04-Feb-2020 19:56:40
+      - MUID=322BC3E754C46D783933CF0655136C95; path=/; expires=Wed, 05-Feb-2020 18:16:15
         GMT; domain=bingapis.com
-      - MUIDB=33F2D96161E463601903D58160336227; path=/; httponly; expires=Tue, 04-Feb-2020
-        19:56:40 GMT
-      - SRCHD=AF=NOFORM; domain=.bingapis.com; expires=Sun, 10-Jan-2021 19:56:40 GMT;
+      - MUIDB=322BC3E754C46D783933CF0655136C95; path=/; httponly; expires=Wed, 05-Feb-2020
+        18:16:15 GMT
+      - SRCHD=AF=NOFORM; domain=.bingapis.com; expires=Mon, 11-Jan-2021 18:16:15 GMT;
         path=/
-      - SRCHUID=V=2&GUID=035094C1BFFD424E9CCC1D6983523489&dmnchg=1; domain=.bingapis.com;
-        expires=Sun, 10-Jan-2021 19:56:40 GMT; path=/
-      - SRCHUSR=DOB=20190110; domain=.bingapis.com; expires=Sun, 10-Jan-2021 19:56:40
+      - SRCHUID=V=2&GUID=1C2A8625120C4198B1BA4E6BA8FADC08&dmnchg=1; domain=.bingapis.com;
+        expires=Mon, 11-Jan-2021 18:16:15 GMT; path=/
+      - SRCHUSR=DOB=20190111; domain=.bingapis.com; expires=Mon, 11-Jan-2021 18:16:15
         GMT; path=/
-      - _EDGE_S=mkt=en-us&F=1&SID=3756B46300F769FF1063B883012068DB; path=/; httponly;
+      - _EDGE_S=mkt=en-us&F=1&SID=22CC4183208D62D41A6B4D62215A63EE; path=/; httponly;
         domain=bingapis.com
-      - _EDGE_V=1; path=/; httponly; expires=Tue, 04-Feb-2020 19:56:40 GMT; domain=bingapis.com
-      - _SS=SID=3756B46300F769FF1063B883012068DB; domain=.bingapis.com; path=/
+      - _EDGE_V=1; path=/; httponly; expires=Wed, 05-Feb-2020 18:16:15 GMT; domain=bingapis.com
+      - _SS=SID=22CC4183208D62D41A6B4D62215A63EE; domain=.bingapis.com; path=/
       Bingapis-Traceid:
-      - 2E4DE6E6C9B348A783D53CD3371F67A3
+      - 36E8554A4B114B26997CBE9A441CD781
       X-Msedge-Clientid:
-      - 33F2D96161E463601903D58160336227
+      - 322BC3E754C46D783933CF0655136C95
       X-Msapi-Userstate:
-      - '1653'
+      - 3ccc
       Bingapis-Market:
       - en-US
       X-Msedge-Ref:
-      - 'Ref A: 2E4DE6E6C9B348A783D53CD3371F67A3 Ref B: CO1EDGE0509 Ref C: 2019-01-10T19:56:40Z'
+      - 'Ref A: 36E8554A4B114B26997CBE9A441CD781 Ref B: CO1EDGE0219 Ref C: 2019-01-11T18:16:15Z'
       Date:
-      - Thu, 10 Jan 2019 19:56:40 GMT
+      - Fri, 11 Jan 2019 18:16:15 GMT
     body:
       encoding: UTF-8
-      string: '{"_type": "SearchResponse", "instrumentation": {"pingUrlBase": "https:\/\/www.bingapis.com\/api\/ping?IG=03994470B93D41EFB0480A869C911F42&CID=33F2D96161E463601903D58160336227&ID=",
-        "pageLoadPingUrl": "https:\/\/www.bingapis.com\/api\/ping\/pageload?IG=03994470B93D41EFB0480A869C911F42&CID=33F2D96161E463601903D58160336227&Type=Event.CPT&DATA=0"},
+      string: '{"_type": "SearchResponse", "instrumentation": {"pingUrlBase": "https:\/\/www.bingapis.com\/api\/ping?IG=03EBB53766334FFD9C7EBE960C53537C&CID=322BC3E754C46D783933CF0655136C95&ID=",
+        "pageLoadPingUrl": "https:\/\/www.bingapis.com\/api\/ping\/pageload?IG=03EBB53766334FFD9C7EBE960C53537C&CID=322BC3E754C46D783933CF0655136C95&Type=Event.CPT&DATA=0"},
         "webPages": {"webSearchUrl": "https:\/\/www.bing.com\/search?q=healthy+snack+(site%3ausa.gov)",
         "webSearchUrlPingSuffix": "DevEx,5240.1", "totalEstimatedMatches": 142, "value":
-        [{"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.0", "name": "Food
-        Assistance | USAGov", "url": "https:\/\/www.usa.gov\/food-help", "urlPingSuffix":
+        [{"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.0", "name": "Food
+        Assistance | USAGov", "url": "https:\/\/www.usa.gov\/food-help", "urlPingSuffix":
         "DevEx,5054.1", "displayUrl": "https:\/\/www.usa.gov\/food-help", "snippet":
-        "Food Assistance. Find out how to get food in case of an emergency, apply
-        for food stamps and what free or low-cost food programs are available
-        for infants, children and seniors. ... This short-term program can help you
-        get healthy food for yourself and your young children.", "dateLastCrawled":
-        "2019-01-04T21:04:00.0000000Z"}, {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.1",
+        "Many low-income women and young children can get healthy food to add to
+        their diet. It’s available through the Special Supplemental Nutrition Program
+        for Women, Infants and Children (WIC). WIC also offers nutrition counseling
+        and referrals to health, welfare, and social services.", "dateLastCrawled":
+        "2019-01-11T15:35:00.0000000Z"}, {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.1",
         "name": "Health | USAGov", "url": "https:\/\/www.usa.gov\/health", "urlPingSuffix":
         "DevEx,5067.1", "displayUrl": "https:\/\/www.usa.gov\/health", "snippet":
         "Health Information from the Government. Learn more about the best ways
@@ -104,25 +104,24 @@ http_interactions:
         "snippet": "Office of Lead Hazard Control and Healthy Homes. The Office
         of Lead Hazard Control and Healthy Homes works to make private homes safe
         from lead and other harmful materials.", "dateLastCrawled": "2018-12-31T19:33:00.0000000Z"},
-        {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.5", "name": "Finding
+        {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.5", "name": "Adoption,
+        Foster Care, and Other Child Related Issues | USAGov", "url": "https:\/\/www.usa.gov\/child-care",
+        "urlPingSuffix": "DevEx,5118.1", "displayUrl": "https:\/\/www.usa.gov\/child-care",
+        "snippet": "Children''s healthy development depends on safe and positive
+        experiences starting at an early age throughout childhood and teenage years.
+        Follow these recommendations to measure the quality of providers and centers:
+        ... This helps take care of the child’s needs on a daily basis, from food
+        and housing to clothing and medical needs.", "dateLastCrawled": "2019-01-05T09:09:00.0000000Z"},
+        {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.6", "name": "Finding
         Health Insurance | USAGov", "url": "https:\/\/www.usa.gov\/finding-health-insurance",
-        "urlPingSuffix": "DevEx,5118.1", "displayUrl": "https:\/\/www.usa.gov\/finding-health-insurance",
+        "urlPingSuffix": "DevEx,5131.1", "displayUrl": "https:\/\/www.usa.gov\/finding-health-insurance",
         "snippet": "Finding Health Insurance. Get information on how to find and
         sign-up for health insurance including the ACA, COBRA, long term care and
         health care for people with disabilities. ... will it pay for care provided
         by visiting nurses and therapists? What about help with food preparation
         and housecleaning? ... tips for healthy living and more.", "dateLastCrawled":
-        "2019-01-06T16:56:00.0000000Z"}, {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.6",
-        "name": "Adoption, Foster Care, and Other Child Related Issues | USAGov",
-        "url": "https:\/\/www.usa.gov\/child-care", "urlPingSuffix": "DevEx,5131.1",
-        "displayUrl": "https:\/\/www.usa.gov\/child-care", "snippet": "Children''s
-        healthy development depends on safe and positive experiences starting at
-        an early age throughout childhood and teenage years. Follow these recommendations
-        to measure the quality of providers and centers: ... This helps take care
-        of the child’s needs on a daily basis, from food and housing to clothing
-        and medical needs.", "dateLastCrawled": "2019-01-05T09:09:00.0000000Z"}, {"id":
-        "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.7", "name": "Healthcare Careers
-        | USAGov", "url": "https:\/\/www.usa.gov\/healthcare-careers?source=kids",
+        "2019-01-06T16:56:00.0000000Z"}, {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.7",
+        "name": "Healthcare Careers | USAGov", "url": "https:\/\/www.usa.gov\/healthcare-careers?source=kids",
         "urlPingSuffix": "DevEx,5143.1", "displayUrl": "https:\/\/www.usa.gov\/healthcare-careers?source=kids",
         "snippet": "I love food! And I love helping people. At USDA [U.S. Department
         of Agriculture], our job is to teach Americans, all Americans in the whole
@@ -152,5 +151,5 @@ http_interactions:
         {"answerType": "WebPages", "resultIndex": 8, "value": {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.8"}},
         {"answerType": "WebPages", "resultIndex": 9, "value": {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.9"}}]}}}'
     http_version: 
-  recorded_at: Thu, 10 Jan 2019 19:56:40 GMT
+  recorded_at: Fri, 11 Jan 2019 18:16:15 GMT
 recorded_with: VCR 4.0.0

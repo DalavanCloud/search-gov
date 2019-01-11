@@ -27,46 +27,46 @@ http_interactions:
       Cache-Control:
       - private, max-age=0
       Content-Length:
-      - '2193'
+      - '2194'
       Content-Type:
       - application/json; charset=utf-8
       Expires:
-      - Thu, 10 Jan 2019 19:56:19 GMT
+      - Fri, 11 Jan 2019 18:26:13 GMT
       Vary:
       - Accept-Encoding
       P3p:
       - CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"
       Set-Cookie:
-      - MUID=174C00B887CC625E09030C58861B633E; path=/; expires=Tue, 04-Feb-2020 19:57:19
+      - MUID=018BCEEC42E767CB3597C20D4330667C; path=/; expires=Wed, 05-Feb-2020 18:27:13
         GMT; domain=bingapis.com
-      - MUIDB=174C00B887CC625E09030C58861B633E; path=/; httponly; expires=Tue, 04-Feb-2020
-        19:57:19 GMT
-      - SRCHD=AF=NOFORM; domain=.bingapis.com; expires=Sun, 10-Jan-2021 19:57:19 GMT;
+      - MUIDB=018BCEEC42E767CB3597C20D4330667C; path=/; httponly; expires=Wed, 05-Feb-2020
+        18:27:13 GMT
+      - SRCHD=AF=NOFORM; domain=.bingapis.com; expires=Mon, 11-Jan-2021 18:27:13 GMT;
         path=/
-      - SRCHUID=V=2&GUID=FE21A5BAFBF94A3B845851FA350C84B0&dmnchg=1; domain=.bingapis.com;
-        expires=Sun, 10-Jan-2021 19:57:19 GMT; path=/
-      - SRCHUSR=DOB=20190110; domain=.bingapis.com; expires=Sun, 10-Jan-2021 19:57:19
+      - SRCHUID=V=2&GUID=D020529312094D72A5D3DD2444E65363&dmnchg=1; domain=.bingapis.com;
+        expires=Mon, 11-Jan-2021 18:27:13 GMT; path=/
+      - SRCHUSR=DOB=20190111; domain=.bingapis.com; expires=Mon, 11-Jan-2021 18:27:13
         GMT; path=/
-      - _EDGE_S=mkt=en-us&F=1&SID=3E1A84D1E5E8676C2D5A8831E43F6609; path=/; httponly;
+      - _EDGE_S=mkt=en-us&F=1&SID=243470A7620F6BD7334B7C4663D86AA9; path=/; httponly;
         domain=bingapis.com
-      - _EDGE_V=1; path=/; httponly; expires=Tue, 04-Feb-2020 19:57:19 GMT; domain=bingapis.com
-      - _SS=SID=3E1A84D1E5E8676C2D5A8831E43F6609; domain=.bingapis.com; path=/
+      - _EDGE_V=1; path=/; httponly; expires=Wed, 05-Feb-2020 18:27:13 GMT; domain=bingapis.com
+      - _SS=SID=243470A7620F6BD7334B7C4663D86AA9; domain=.bingapis.com; path=/
       Bingapis-Traceid:
-      - E988602F075D49FDB5B00FA9023A9620
+      - 56131FF6C9B04FA99B0DEB29A436CFFE
       X-Msedge-Clientid:
-      - 174C00B887CC625E09030C58861B633E
+      - '018BCEEC42E767CB3597C20D4330667C'
       X-Msapi-Userstate:
-      - da14
+      - 624e
       Bingapis-Market:
       - en-US
       X-Msedge-Ref:
-      - 'Ref A: E988602F075D49FDB5B00FA9023A9620 Ref B: CO1EDGE0109 Ref C: 2019-01-10T19:57:19Z'
+      - 'Ref A: 56131FF6C9B04FA99B0DEB29A436CFFE Ref B: CO1EDGE0111 Ref C: 2019-01-11T18:27:13Z'
       Date:
-      - Thu, 10 Jan 2019 19:57:19 GMT
+      - Fri, 11 Jan 2019 18:27:13 GMT
     body:
       encoding: UTF-8
-      string: '{"_type": "SearchResponse", "instrumentation": {"pingUrlBase": "https:\/\/www.bingapis.com\/api\/ping?IG=E19BB47BFB1D483C91225C5EC921F50F&CID=174C00B887CC625E09030C58861B633E&ID=",
-        "pageLoadPingUrl": "https:\/\/www.bingapis.com\/api\/ping\/pageload?IG=E19BB47BFB1D483C91225C5EC921F50F&CID=174C00B887CC625E09030C58861B633E&Type=Event.CPT&DATA=0"},
+      string: '{"_type": "SearchResponse", "instrumentation": {"pingUrlBase": "https:\/\/www.bingapis.com\/api\/ping?IG=438C898D7C6B47FBBA559170D462909B&CID=018BCEEC42E767CB3597C20D4330667C&ID=",
+        "pageLoadPingUrl": "https:\/\/www.bingapis.com\/api\/ping\/pageload?IG=438C898D7C6B47FBBA559170D462909B&CID=018BCEEC42E767CB3597C20D4330667C&Type=Event.CPT&DATA=0"},
         "webPages": {"webSearchUrl": "https:\/\/www.bing.com\/search?q=educaci%c3%b3n+(site%3ausa.gov)",
         "webSearchUrlPingSuffix": "DevEx,5235.1", "totalEstimatedMatches": 121, "value":
         [{"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.0", "name": "Recursos
@@ -152,5 +152,5 @@ http_interactions:
         {"answerType": "WebPages", "resultIndex": 8, "value": {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.8"}},
         {"answerType": "WebPages", "resultIndex": 9, "value": {"id": "https:\/\/www.bingapis.com\/api\/v6\/#WebPages.9"}}]}}}'
     http_version: 
-  recorded_at: Thu, 10 Jan 2019 19:57:19 GMT
+  recorded_at: Fri, 11 Jan 2019 18:27:13 GMT
 recorded_with: VCR 4.0.0
